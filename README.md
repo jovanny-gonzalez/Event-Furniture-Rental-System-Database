@@ -38,4 +38,4 @@
 - `Event-Furniture-Rental-System-Database.pdf` (project presentation with ER diagram, business rules, table examples, SQL examples, and JDBC output)
 
 ## Credit
-This academic project was completed as a group. While personal contributions have been stated in "My Role" section, the project as a whole included team contributions to data entry, queries, JDBC validation, documentation, and presentation materials.
+This academic project was completed as a group. While personal contributions have been stated in "My Role" section, the project as a whole included team contributions to data entry, queries, JDBC validation, documentation, and presentation materials. This project was completed by Daira Aguilar, Alonso Benoun, Isaac Esquivel, and Jovanny Gonzalez, Karina Garcia-Carrillo.
