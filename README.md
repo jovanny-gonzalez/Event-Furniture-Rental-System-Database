@@ -1,5 +1,5 @@
 # Event-Furniture-Rental-System-Database
- Its purpose is to manage furniture reservations for events such as weddings, parties, and corporate gatherings.
+ PURPOSE: To manage furniture reservations for events such as weddings, parties, and corporate gatherings.
 
 ## My Role: Database Design Lead
 -Designed the ER Diagram and used MySQL forward engineering to generate the relational schema.
